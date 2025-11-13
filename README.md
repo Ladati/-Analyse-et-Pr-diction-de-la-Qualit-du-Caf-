@@ -1,4 +1,4 @@
-# Analyse et Prédiction de la Qualité du Café
+# Analyse et Prédiction du score Café
 Un projet d’analyse de données et de modélisation pour comprendre les facteurs influençant la qualité du café
 
 Ce projet vise à identifier les caractéristiques aromatiques, sensorielles et environnementales qui influencent le score de qualité du café.
